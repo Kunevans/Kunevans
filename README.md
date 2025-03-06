@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Kunevans
+- 👋 Hi, I’m @Kunal
 - 👀 I’m interested in cyber security.
 - 🌱 I’m currently learning ethical hacking.
 - 💞️ I’m looking to collaborate on coding.
