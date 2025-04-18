@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning Lateral Movement and Pivoting on different machines<br>📫 How to reach me www.linkedin.com/in/ kunal-singh-a4650b28a
+🌱 I’m currently practicing Ethical Hacking/Penetration Testing...<br>
 
 
 ## 🌐 Socials:
